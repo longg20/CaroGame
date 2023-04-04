@@ -1,5 +1,4 @@
-# Exercise 2
-Use ReactJS to create a simple 2-player OFFLINE caro game.
+A simple 2-player OFFLINE caro game using ReactJS with Redux-Toolkit to manage states.
 
 ## How to run:
 ### `yarn install`
@@ -8,6 +7,8 @@ To install required dependencies:
 - styled-components
 - react-draggable
 - react-modal
+- redux-toolkit
+- lodash
 
 ### `yarn start`
 Run the app in development mode. 
